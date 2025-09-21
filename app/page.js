@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import CareerAdvisorDashboard from "@/components/CareerAdvisorDashboard";
-import InputSection from "@/components/inputSection";
+import InputSection from "@/components/InputSection";
 import RoadmapAccordion from "@/components/RoadmapAccordion";
 import LearningResourcesCarousel from "@/components/LearningResourcesCarousel";
 import { ModeToggle } from "@/components/ModeToggle";
